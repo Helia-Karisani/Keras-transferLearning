@@ -92,6 +92,3 @@ three png outputs
 
 This project shows how to efficiently reuse pre-trained models in Keras by freezing layers and adding new ones, enabling faster training and better performance on new tasks.
 
-```
-
-```
